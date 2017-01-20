@@ -1,4 +1,5 @@
-# A subset of the tools I use for formatting environmental analytical data (soil, groundwater and air) written in VBA for Excel.
+#Environmental-Data-Formatting 
+A subset of the tools I use for formatting environmental analytical data (soil, groundwater and air) written in VBA for Excel.
 
 This repository has one excel file and three VBA modules:
 
